@@ -57,8 +57,10 @@ namespace SpecFlowBDDAutomationFramework.Hooks
         {
             Console.WriteLine("Running before scenario...");
             new WebDriverManager.DriverManager().SetUpDriver(new FirefoxConfig());
-            IWebDriver driver = new FirefoxDriver();
-        
+           FirefoxOptions options = new FirefoxOptions();
+            options.AddArguments("--headless");
+            IWebDriver driver = new FirefoxDriver(options);
+
             driver.Manage().Window.Maximize();
 
             _container.RegisterInstanceAs<IWebDriver>(driver);

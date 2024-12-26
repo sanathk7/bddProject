@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SpecFlowBDDAutomationFramework")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0b4408155c06b7f263ff48cc9dcf58918443f8ff")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dbb162612f7bd5b302aa077dec67061d41483f2e")]
 [assembly: System.Reflection.AssemblyProductAttribute("SpecFlowBDDAutomationFramework")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SpecFlowBDDAutomationFramework")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

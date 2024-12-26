@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Harsha Patil\\Downloads\\SpecFlowBDDAutomationFramework-main\\SpecFlowBDDAutomationFramework-main\\SpecFlowBDDAutomationFramework.csproj": {}
+    "C:\\Users\\sakum\\Downloads\\SpecFlowBDDAutomationFramework-main\\SpecFlowBDDAutomationFramework-main\\SpecFlowBDDAutomationFramework.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Harsha Patil\\Downloads\\SpecFlowBDDAutomationFramework-main\\SpecFlowBDDAutomationFramework-main\\SpecFlowBDDAutomationFramework.csproj": {
+    "C:\\Users\\sakum\\Downloads\\SpecFlowBDDAutomationFramework-main\\SpecFlowBDDAutomationFramework-main\\SpecFlowBDDAutomationFramework.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Harsha Patil\\Downloads\\SpecFlowBDDAutomationFramework-main\\SpecFlowBDDAutomationFramework-main\\SpecFlowBDDAutomationFramework.csproj",
+        "projectUniqueName": "C:\\Users\\sakum\\Downloads\\SpecFlowBDDAutomationFramework-main\\SpecFlowBDDAutomationFramework-main\\SpecFlowBDDAutomationFramework.csproj",
         "projectName": "SpecFlowBDDAutomationFramework",
-        "projectPath": "C:\\Users\\Harsha Patil\\Downloads\\SpecFlowBDDAutomationFramework-main\\SpecFlowBDDAutomationFramework-main\\SpecFlowBDDAutomationFramework.csproj",
-        "packagesPath": "C:\\Users\\Harsha Patil\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Harsha Patil\\Downloads\\SpecFlowBDDAutomationFramework-main\\SpecFlowBDDAutomationFramework-main\\obj\\",
+        "projectPath": "C:\\Users\\sakum\\Downloads\\SpecFlowBDDAutomationFramework-main\\SpecFlowBDDAutomationFramework-main\\SpecFlowBDDAutomationFramework.csproj",
+        "packagesPath": "C:\\Users\\sakum\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sakum\\Downloads\\SpecFlowBDDAutomationFramework-main\\SpecFlowBDDAutomationFramework-main\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Harsha Patil\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\sakum\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -26,8 +26,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
-          "C:\\Users\\Harsha Patil\\Documents\\UiPath\\Obj": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -45,7 +43,8 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "all"
-        }
+        },
+        "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
         "net6.0": {
@@ -105,10 +104,6 @@
               "version": "[6.0.36, 6.0.36]"
             },
             {
-              "name": "Microsoft.Net.Sdk.Compilers.Toolset",
-              "version": "[9.0.101, 9.0.101]"
-            },
-            {
               "name": "Microsoft.NETCore.App.Ref",
               "version": "[6.0.36, 6.0.36]"
             },
@@ -122,7 +117,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }
